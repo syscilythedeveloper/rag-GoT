@@ -1,6 +1,6 @@
 "use client"
 
-import { Box, Button, Stack, TextField } from "@mui/material"
+import { Box, Button, Stack, TextField, Typography } from "@mui/material"
 import { useState } from "react"
 
 export default function Home() {
@@ -61,6 +61,30 @@ export default function Home() {
   }
 
   return (
+    <>
+     <Box sx={{
+         justifyContent:"center",
+         alignItems:"center",
+         display:"flex",
+         flexDirection:"column",
+         color: "white"
+     }}
+  
+   
+      >
+      <Typography variant="h1"  gutterBottom>
+        Game of Thrones
+      </Typography>
+      <Typography 
+        
+        
+        variant="h4" 
+        gutterBottom>
+        Winter is Coming
+      </Typography>
+     
+    </Box>
+
     <Box
       width="100vw"
       height="100vh"
@@ -73,7 +97,7 @@ export default function Home() {
         direction={'column'}
         width="500px"
         height="700px"
-        border="1px solid black"
+        border="1px solid #808080"
         p={2}
         spacing={3}
       >
@@ -108,12 +132,14 @@ export default function Home() {
             </Box>
           ))}
         </Stack>
-        <Stack direction={'row'} spacing={2}>
+        <Stack direction={'row'} spacing={2} border="1px solid #808080"
+        >
           <TextField
             label="Message"
             fullWidth
             value={message}
             onChange={(e) => setMessage(e.target.value)}
+            sx={{ '& .MuiInputBase-input': { color: 'white' } }} 
           />
           <Button variant="contained" onClick={sendMessage}>
             Send
@@ -121,5 +147,7 @@ export default function Home() {
         </Stack>
       </Stack>
     </Box>
+    </>
   )
+
 }
