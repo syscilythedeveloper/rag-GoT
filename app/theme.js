@@ -4,10 +4,10 @@ import { createTheme } from '@mui/material/styles';
 const theme = createTheme({
   palette: {
     primary: {
-      main: '#8B0000', // Dark red for House Lannister
+      main: '#64000d', // Dark red for House Lannister
     },
     secondary: {
-      main: '#708090', // Slate gray for House Stark
+      main: '#8C8C8C', // Slate gray for House Stark
     },
     background: {
       default: 'transparent', // Set to transparent to allow image to show
@@ -15,7 +15,7 @@ const theme = createTheme({
   },
   typography: {
     fontFamily: 'Trajan Pro, serif',
-    color: "white"
+  
   },
   components: {
     MuiCssBaseline: {

@@ -1,6 +1,7 @@
 "use client"
 
 import { Box, Button, Stack, TextField, Typography } from "@mui/material"
+
 import { useState } from "react"
 
 export default function Home() {
@@ -67,20 +68,27 @@ export default function Home() {
          alignItems:"center",
          display:"flex",
          flexDirection:"column",
-         color: "white"
+         color: "#c0c0c0",
+         fontFamily: "Trajan Pro, serif",
+         textShadow: "5px 10px 12px #786262", 
+         fontWeight: "bold", 
+         fontSize: "2rem", 
+         fontWeight: 'bold', 
+         letterSpacing: '0.5px',
+         backgroundColor: 'rgba(0, 0, 0, 0.3)'
      }}
   
    
       >
       <Typography variant="h1"  gutterBottom>
-        Game of Thrones
+        Rate My Maester
       </Typography>
       <Typography 
         
         
-        variant="h4" 
+        variant="h5" 
         gutterBottom>
-        Winter is Coming
+        Endurance of the Realm: Who Reigns Supreme in Surviving the Game of Thrones?
       </Typography>
      
     </Box>
