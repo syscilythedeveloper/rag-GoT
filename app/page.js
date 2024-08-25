@@ -8,7 +8,7 @@ export default function Home() {
   const [messages, setMessages] = useState([
     {
       role: "assistant",
-      content: `Greetings! I am your Game of Thrones support maester. What is it you need to know? I’m here to help.`
+      content: `Welcome to the Iron Throne of Knowledge, seeker of wisdom! I am here to provide counsel on the toughest and most cunning characters of Game of Thrones. What knowledge do you seek? `
     }
   ])
 
