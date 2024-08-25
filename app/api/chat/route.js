@@ -8,7 +8,7 @@ For every user question, the top 3 characters that match the user question are r
 export async function POST(req){
     const data = await req.json()
     const pc = new Pinecone({
-        apiKey: process.env.PINECONE_API_KEY
+        apiKey: process.env.PINECONE_API_KEY,
     })
     const index = pc.index("rag-game-of-thrones").namespace("ns1")
     const openai = new OpenAI()
@@ -23,7 +23,7 @@ export async function POST(req){
     const results = await index.query({
         topK: 5,
         includeMetadata: true,
-        vector: embedding.data[0].embedding
+        vector: embedding.data[0].embedding,
     })
 
     let resultString=""
@@ -39,6 +39,7 @@ export async function POST(req){
 
         `
     })
+    
 
     const lastMessage = data[data.length -1]
     const lastMessageContent = lastMessage.content + resultString
