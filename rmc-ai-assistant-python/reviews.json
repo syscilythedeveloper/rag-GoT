@@ -4,163 +4,206 @@
         "character": "Jon Snow",
         "house": "Stark",
         "survival_skills": 5,
-        "review": "Jon Snow excels in survival skills. His leadership and combat abilities in the harshest conditions make him one of the best.",
+        "review": "Jon Snow excels in survival, demonstrating leadership and combat abilities in the harshest conditions. He has a strong moral compass and is a natural leader who inspires loyalty. However, his sense of honor sometimes blinds him to political realities, making him vulnerable to betrayal.",
         "cause_of_death": "Resurrected after being betrayed and killed by the Night's Watch."
       },
       {
         "character": "Arya Stark",
         "house": "Stark",
         "survival_skills": 5,
-        "review": "Arya Stark is highly skilled in survival, blending stealth and combat prowess to overcome numerous challenges.",
+        "review": "Arya Stark is highly skilled in survival, blending stealth, combat prowess, and a sharp intellect. Her ability to adapt to different situations, such as her training with the Faceless Men, makes her a deadly force. However, her focus on revenge can cloud her judgment at times.",
         "cause_of_death": "Alive"
       },
       {
         "character": "Tyrion Lannister",
         "house": "Lannister",
         "survival_skills": 4,
-        "review": "Tyrion is resourceful and intelligent, using his wit and strategic thinking to navigate dangerous situations effectively.",
+        "review": "Tyrion is resourceful and intelligent, using his wit and strategic thinking to navigate dangerous situations. His knowledge of politics and ability to manipulate events in his favor have kept him alive. However, his penchant for drinking and occasional overconfidence can put him at risk.",
         "cause_of_death": "Alive"
       },
       {
         "character": "Daenerys Targaryen",
         "house": "Targaryen",
         "survival_skills": 4,
-        "review": "Daenerys demonstrates strong survival skills through her resilience and ability to lead, though her survival often depends on her dragons.",
+        "review": "Daenerys demonstrates strong survival skills through her resilience and leadership. She commands respect and has a powerful tool in her dragons. Her determination to free the oppressed makes her a charismatic leader, but her impulsive decisions and eventual descent into tyranny are her weaknesses.",
         "cause_of_death": "Killed by Jon Snow"
       },
       {
         "character": "Sandor Clegane (The Hound)",
         "house": "Clegane",
         "survival_skills": 4,
-        "review": "The Hound is a formidable fighter with excellent survival instincts, although his rough demeanor can be a disadvantage at times.",
+        "review": "The Hound is a formidable fighter with excellent survival instincts, often relying on brute strength and a cynical worldview to get by. While his combat skills are unmatched, his rough demeanor and deep-seated trauma make him prone to self-destruction.",
         "cause_of_death": "Killed in a fight against his brother, Gregor Clegane."
       },
       {
         "character": "Sansa Stark",
         "house": "Stark",
         "survival_skills": 3,
-        "review": "Sansa has developed impressive survival skills through her experiences, but her survival is often influenced by the support of others.",
+        "review": "Sansa has developed impressive survival skills, particularly in the political arena, through her experiences with manipulation and betrayal. Her strength lies in her resilience and growing wisdom, but her survival is often influenced by the protection and guidance of others.",
         "cause_of_death": "Alive"
       },
       {
         "character": "Brienne of Tarth",
         "house": "Tarth",
         "survival_skills": 5,
-        "review": "Brienne's combat skills and dedication to her cause make her one of the most capable survivors in the series.",
+        "review": "Brienne's combat skills, unwavering loyalty, and moral integrity make her one of the most capable survivors in the series. Her dedication to her cause and her sense of honor drive her forward, though her rigid adherence to her code can sometimes limit her flexibility in tough situations.",
         "cause_of_death": "Alive"
       },
       {
-        "character": "Jamie Lannister",
+        "character": "Jaime Lannister",
         "house": "Lannister",
         "survival_skills": 4,
-        "review": "Jamie Lannister is a skilled fighter with strong survival skills, though his journey often involves complex personal conflicts.",
+        "review": "Jaime Lannister is a skilled fighter and survivor, known for his swordsmanship and strategic mind. His journey of redemption reveals his strengths, but his loyalty to his sister Cersei and his complicated personal conflicts often put him in compromising situations.",
         "cause_of_death": "Killed in the collapse of the Red Keep with Cersei Lannister."
       },
       {
-        "character": "Euron Greyjoy",
-        "house": "Greyjoy",
-        "survival_skills": 3,
-        "review": "Euron is a ruthless and cunning character with good survival skills, but his unpredictability can sometimes be a liability.",
-        "cause_of_death": "Killed by Jamie Lannister."
+        "character": "Cersei Lannister",
+        "house": "Lannister",
+        "survival_skills": 4,
+        "review": "Cersei Lannister is a master of political maneuvering and manipulation, using her intelligence and ruthlessness to survive in a dangerous world. Her willingness to do anything to protect her family makes her formidable, but her overconfidence and refusal to compromise often lead to her downfall.",
+        "cause_of_death": "Killed in the collapse of the Red Keep with Jaime Lannister."
       },
       {
         "character": "Jorah Mormont",
         "house": "Mormont",
         "survival_skills": 4,
-        "review": "Jorah is experienced and loyal, showing strong survival skills, though his past mistakes occasionally catch up with him.",
+        "review": "Jorah is experienced and loyal, showcasing strong survival skills through his devotion to Daenerys and his combat abilities. His weakness lies in his unrequited love for Daenerys, which often clouds his judgment and leads him into dangerous situations.",
         "cause_of_death": "Killed protecting Daenerys during the Battle of Winterfell."
       },
       {
         "character": "Melisandre",
         "house": "None",
         "survival_skills": 3,
-        "review": "Melisandre relies on her magical abilities for survival, which can be both a strength and a vulnerability depending on the situation.",
-        "cause_of_death": "Collapsed and died after the Battle of Winterfell."
+        "review": "Melisandre relies on her magical abilities for survival, using her knowledge of the Lord of Light to influence events. Her strengths include her foresight and determination, but her reliance on prophecies and her questionable morality sometimes lead to disastrous consequences.",
+        "cause_of_death": "Dies after fulfilling her purpose in the Battle of Winterfell."
       },
       {
-        "character": "Petyr Baelish (Littlefinger)",
-        "house": "Baelish",
-        "survival_skills": 4,
-        "review": "Littlefinger is adept at manipulation and political survival, though his skills are less suited to direct physical survival.",
-        "cause_of_death": "Executed by Arya Stark."
-      },
-      {
-        "character": "Gendry",
-        "house": "Baratheon (by birth)",
+        "character": "Bran Stark",
+        "house": "Stark",
         "survival_skills": 3,
-        "review": "Gendry shows basic survival skills with his background as a blacksmith, but his experience is limited compared to other characters.",
+        "review": "Bran Stark's survival is tied to his mystical abilities as the Three-Eyed Raven. He possesses unique knowledge and foresight, which helps him navigate the world, but his detachment from humanity and reliance on visions can make him seem aloof and disconnected.",
         "cause_of_death": "Alive"
       },
       {
-        "character": "The Night King",
-        "house": "None",
-        "survival_skills": 5,
-        "review": "The Night King demonstrates unparalleled survival skills through his ability to command the undead and his resilience against attacks.",
-        "cause_of_death": "Killed by Arya Stark."
-      },
-      {
-        "character": "Podrick Payne",
-        "house": "Payne",
+        "character": "Samwell Tarly",
+        "house": "Tarly",
         "survival_skills": 3,
-        "review": "Podrick shows potential with his growing combat skills, but he's still learning and often relies on the protection of others.",
-        "cause_of_death": "Alive"
-      },
-      {
-        "character": "Yara Greyjoy",
-        "house": "Greyjoy",
-        "survival_skills": 4,
-        "review": "Yara is a strong leader and fighter, showing excellent survival skills in both naval and land-based battles.",
+        "review": "Samwell Tarly is not a traditional survivor, but his intelligence, resourcefulness, and loyalty make him capable of surviving in dangerous situations. His knowledge of history and medicine, as well as his courage to stand up for what is right, contribute to his survival. However, his lack of physical prowess and self-doubt are weaknesses.",
         "cause_of_death": "Alive"
       },
       {
         "character": "Bronn",
         "house": "None",
         "survival_skills": 4,
-        "review": "Bronn is a highly capable fighter and survivalist, using his skills and pragmatism to navigate dangerous situations effectively.",
+        "review": "Bronn is a skilled sellsword known for his cunning, practicality, and ability to survive by aligning himself with powerful individuals. His strength lies in his mercenary mindset and combat skills, but his loyalty is often driven by self-interest, making him a wildcard in dangerous situations.",
         "cause_of_death": "Alive"
       },
       {
-        "character": "Tormund Giantsbane",
-        "house": "Free Folk",
-        "survival_skills": 5,
-        "review": "Tormund's survival skills are honed by the harsh conditions beyond the Wall, making him a formidable survivor in any situation.",
+        "character": "Davos Seaworth",
+        "house": "Seaworth",
+        "survival_skills": 3,
+        "review": "Davos is a pragmatic and honorable man who survives through his loyalty and wisdom. He is not a warrior, but his experience as a smuggler and advisor helps him navigate complex political situations. His honesty and straightforwardness are strengths, but they can also make him vulnerable to more ruthless players.",
         "cause_of_death": "Alive"
       },
       {
-        "character": "Khal Drogo",
-        "house": "Dothraki",
-        "survival_skills": 5,
-        "review": "Khal Drogo is a fierce warrior with incredible survival skills, leading the Dothraki horde with unmatched combat prowess.",
-        "cause_of_death": "Killed by infection and mercy killing by Daenerys Targaryen."
+        "character": "Theon Greyjoy",
+        "house": "Greyjoy",
+        "survival_skills": 3,
+        "review": "Theon's journey from arrogance to redemption showcases his survival skills, particularly his resilience in the face of immense physical and psychological torment. His desire for acceptance and redemption drives his actions, but his internal conflicts often lead him into dangerous situations.",
+        "cause_of_death": "Killed by the Night King while defending Bran Stark."
       },
       {
-        "character": "Qhono",
-        "house": "Dothraki",
+        "character": "Gendry",
+        "house": "Baratheon",
+        "survival_skills": 3,
+        "review": "Gendry's survival is rooted in his strength and skill as a blacksmith, as well as his connection to powerful figures. His physical endurance and practical skills make him a capable survivor, though his inexperience in the political games of Westeros can leave him vulnerable.",
+        "cause_of_death": "Alive"
+      },
+      {
+        "character": "Varys",
+        "house": "None",
         "survival_skills": 4,
-        "review": "Qhono is a strong and capable Dothraki warrior, showing excellent survival skills in battle.",
-        "cause_of_death": "Killed by the wights during the Battle of Winterfell."
+        "review": "Varys is a master of espionage and manipulation, using his vast network of spies to stay ahead of his enemies. His ability to read people and navigate complex political situations makes him a formidable survivor, but his secretive nature and shifting loyalties eventually lead to his downfall.",
+        "cause_of_death": "Executed by Daenerys Targaryen for treason."
+      },
+      {
+        "character": "Missandei",
+        "house": "None",
+        "survival_skills": 2,
+        "review": "Missandei survives through her intelligence, linguistic skills, and loyalty to Daenerys Targaryen. Her calm demeanor and ability to navigate court politics help her thrive, but her lack of combat abilities makes her reliant on others for protection.",
+        "cause_of_death": "Executed by Cersei Lannister."
+      },
+      {
+        "character": "Grey Worm",
+        "house": "None",
+        "survival_skills": 4,
+        "review": "Grey Worm is a disciplined and skilled warrior, leading the Unsullied with unwavering loyalty to Daenerys. His combat skills and tactical mind make him a strong survivor, but his emotional connection to Missandei leaves him vulnerable to acts of revenge and impulsive decisions.",
+        "cause_of_death": "Alive"
       },
       {
         "character": "Cersei Lannister",
         "house": "Lannister",
         "survival_skills": 4,
-        "review": "Cersei is highly skilled in political survival, using manipulation and ruthlessness to maintain power, though her arrogance can be her downfall.",
-        "cause_of_death": "Killed in the collapse of the Red Keep with Jamie Lannister."
+        "review": "Cersei is a master of manipulation and political maneuvering. Her ruthlessness and desire to protect her family drive her actions, making her a formidable adversary. However, her overconfidence and inability to see beyond her immediate desires ultimately lead to her downfall.",
+        "cause_of_death": "Killed in the collapse of the Red Keep with Jaime Lannister."
+      },
+      {
+        "character": "Joffrey Baratheon",
+        "house": "Baratheon",
+        "survival_skills": 2,
+        "review": "Joffrey’s survival was largely due to his position as king, but his lack of wisdom and cruel nature alienated allies and made him a target. His impulsive and sadistic behavior made him a dangerous ruler, but his immaturity and arrogance led to his eventual demise.",
+        "cause_of_death": "Poisoned at his own wedding (The Purple Wedding)."
       },
       {
         "character": "Robert Baratheon",
         "house": "Baratheon",
         "survival_skills": 3,
-        "review": "Robert was a powerful warrior in his youth, but his lack of focus and indulgence led to a decline in his survival skills as a king.",
-        "cause_of_death": "Killed by a boar during a hunt, after being weakened by wine."
+        "review": "Robert Baratheon was a strong warrior in his youth, but his skills as a ruler were lacking. His love for drinking, hunting, and women distracted him from ruling effectively, leading to his death. His lack of political acumen and inability to maintain alliances weakened his survival chances.",
+        "cause_of_death": "Killed by a boar during a hunting trip after being given too much wine."
       },
       {
         "character": "Ned Stark",
         "house": "Stark",
         "survival_skills": 3,
-        "review": "Ned Stark was honorable and skilled in battle, but his rigid sense of honor often placed him at a disadvantage in the dangerous political landscape.",
+        "review": "Ned Stark was an honorable man with strong survival skills in combat, but his rigid adherence to honor in a world full of political intrigue was his downfall. His inability to navigate the treacherous politics of King's Landing led to his betrayal and execution.",
         "cause_of_death": "Executed by Joffrey Baratheon."
+      },
+      {
+        "character": "Oberyn Martell",
+        "house": "Martell",
+        "survival_skills": 4,
+        "review": "Oberyn Martell was a skilled fighter, known for his agility, intelligence, and use of poison. His charisma and passion made him a beloved figure, but his desire for vengeance against the Lannisters blinded him to danger. His arrogance in the trial by combat ultimately led to his tragic death.",
+        "cause_of_death": "Killed by Gregor Clegane (The Mountain) during a trial by combat."
+      },
+      {
+        "character": "Ellaria Sand",
+        "house": "Martell",
+        "survival_skills": 3,
+        "review": "Ellaria Sand is fiercely loyal to her family and motivated by vengeance. Her cunning and ability to manipulate others made her a force in Dorne, but her rash decisions, driven by grief and anger, eventually led to her capture and imprisonment.",
+        "cause_of_death": "Imprisoned by Cersei Lannister, left to die in the Red Keep dungeons."
+      },
+      {
+        "character": "Tyene Sand",
+        "house": "Martell",
+        "survival_skills": 3,
+        "review": "Tyene Sand, one of the Sand Snakes, is known for her skill with poisons, like her father Oberyn. She is a capable fighter and uses her beauty to disarm opponents. However, her overconfidence and underestimation of her enemies led to her downfall.",
+        "cause_of_death": "Poisoned by Cersei Lannister in revenge for Myrcella Baratheon's death."
+      },
+      {
+        "character": "Obara Sand",
+        "house": "Martell",
+        "survival_skills": 3,
+        "review": "Obara Sand is the eldest of the Sand Snakes, known for her combat prowess and strength. She is driven by her desire to prove herself as a warrior, but her impulsiveness and single-mindedness often put her in danger.",
+        "cause_of_death": "Killed by Euron Greyjoy during the attack on the Dornish fleet."
+      },
+      {
+        "character": "Nymeria Sand",
+        "house": "Martell",
+        "survival_skills": 3,
+        "review": "Nymeria Sand is skilled with a whip and known for her grace and precision in battle. Like her sisters, she is driven by a thirst for vengeance, but her loyalty to her family and her involvement in risky plots eventually lead to her demise.",
+        "cause_of_death": "Killed by Euron Greyjoy during the attack on the Dornish fleet."
       }
+
     ]
   }
   
